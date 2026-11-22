@@ -1,0 +1,14 @@
+.DS_Store
+*.dSYM/
+*.o
+build/
+logs/
+*.log
+
+# Local executable
+/m
+
+# Local audio samples
+*.mp3
+*.ogg
+*.wav
